@@ -1,3 +1,7 @@
-# Tprogramming_42_2020
+# Algorithm 2022
+
+Konstantinov Eugeny Sergeevich
+
+
 
 Master branch :)
